@@ -1,6 +1,9 @@
 # Scriptifier
 A collection of JS scripts I've written
 
+## License/copyright usage
+Check `LICENSE` to view Scriptifier's license.
+
 ## Random-CSS-Page
 The script used in my <a href="https://github.com/OWelton-Rosie/Random-CSS-Page">Random CSS Page</a>
 
