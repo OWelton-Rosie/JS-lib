@@ -1,7 +1,7 @@
 # Scriptifier
 A collection of JS scripts I've written. 
 
-If you're looking for my collection of alg `.json` files, click <a href="https://github.com/OWelton-Rosie/alg-jsons">here</a>.
+If you're looking for my collection of speedcubing algorithm `.json` files, click <a href="https://github.com/OWelton-Rosie/alg-jsons">here</a>.
 
 ## License/copyright usage
 Check `LICENSE` to view Scriptifier's license.
