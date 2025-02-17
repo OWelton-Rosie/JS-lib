@@ -1,5 +1,5 @@
 # Scriptifier
-A collection of JS scripts I've written. If you're looking for my collection of alg `.json` files, click [https://github.com/OWelton-Rosie/alg-jsons](here).
+A collection of JS scripts I've written. If you're looking for my collection of alg `.json` files, click <a href="https://github.com/OWelton-Rosie/alg-jsons">here</a>.
 
 ## License/copyright usage
 Check `LICENSE` to view Scriptifier's license.
