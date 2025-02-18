@@ -1,3 +1,3 @@
 # JS-lib
-A collection of JS scripts I've written. 
+A collection of JavaScript files I've written.
 
