@@ -2,8 +2,10 @@ const cacheName = 'cumulative-time-limit-cache-v1';
 const assets = [
     '/',
     '/index.html',
-    '/style.css',
-    '/full.js',
+    '/style.css',  
+    '/js/logic.js',    // Updated path to js folder
+    '/js/definition.js',  // Updated path to js folder
+    '/js/warn-exit.js',  // Updated path to js folder
 ];
 
 // Install event - caching assets
