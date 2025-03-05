@@ -1,5 +1,6 @@
 # JS-lib
 A collection of JavaScript files I've written.
 
-Feel free to use any of the JS in this repo. 
+## Licensing
+Check [https://github.com/OWelton-Rosie/JS-lib/blob/main/LICENSE](LICENSE.md) to view this repo's license.
 
