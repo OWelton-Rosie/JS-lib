@@ -9,7 +9,7 @@ function displayNZTime() {
         weekday: 'long',
         hour: '2-digit',
         minute: '2-digit',
-        hour12: false,
+        hour12: true,
     };
 
     const nzDateTime = new Intl.DateTimeFormat('en-NZ', options).format(new Date());
