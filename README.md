@@ -10,6 +10,7 @@ You are welcome to use any JS in this repo, subject to the terms of the <a href=
 ## Running this repo locally
 You can run this repo locally by copying the following command and pasting it into your terminal:
 
-```git clone https://github.com/OWelton-Rosie/js-lib
+```
+git clone https://github.com/OWelton-Rosie/js-lib
 ```
 
