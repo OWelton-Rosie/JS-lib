@@ -11,9 +11,15 @@ You are welcome to use any JS in this repo, subject to the terms of <a href="htt
 - First, navigate to the JavaScript file you wish to use and copy or download the code.
 - Secondly, add the file to your workspace
   * Any file named `sw.js` is a service worker file and must be placed in your workspace's `root` directory
-- Once you've added the file to your workspace, you'll need to place it in your `HTML` file. The code will look something like this: ```<script src="script.js" defer></script>
+- Once you've added the file to your workspace, you'll need to place it in your `HTML` file. The code will look something like this:
+```
+ <script src="script.js" defer></script>
 ```
 
+If you're placing the scripts in a separate directory, the HTML structure would look something like this:
+```
+<script src="./scripts/script.js" defer></script>
+```
 
 ## Running this repo locally
 You can run this repo locally by copying the following command and pasting it into your terminal:
