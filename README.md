@@ -5,7 +5,15 @@ A collection of JavaScript files I've written.
 Check <a href="https://github.com/OWelton-Rosie/JS-lib/blob/main/LICENSE">`LICENSE.md`</a> to view this repo's license.
 
 ## Implementing the JS
-You are welcome to use any JS in this repo, subject to the terms of <a href="https://github.com/OWelton-Rosie/JS-lib/blob/main/LICENSE">`LICENSE.md`</a>. Note that all the scripts must be linked in your HTML files. If you have any questions, contact me. 
+You are welcome to use any JS in this repo, subject to the terms of <a href="https://github.com/OWelton-Rosie/JS-lib/blob/main/LICENSE">`LICENSE.md`</a>. Note that all the scripts must be linked in your HTML files. If you have any questions, <a href="https://owelton-rosie.pages.dev/">contact me</a>. 
+
+### Quickstart implementation guide
+- First, navigate to the JavaScript file you wish to use and copy or download the code.
+- Secondly, add the file to your workspace
+  * Any file named `sw.js` is a service worker file and must be placed in your workspace's `root` directory
+- Once you've added the file to your workspace, you'll need to place it in your `HTML` file. The code will look something like this: ```<script src="script.js" defer></script>
+```
+
 
 ## Running this repo locally
 You can run this repo locally by copying the following command and pasting it into your terminal:
