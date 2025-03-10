@@ -14,3 +14,11 @@ You can run this repo locally by copying the following command and pasting it in
 git clone https://github.com/OWelton-Rosie/js-lib
 ```
 
+Alternately, if you have VSCode, you can select "Clone Git Repository" from the startup options and enter the following URL: 
+
+```
+https://github.com/OWelton-Rosie/js-lib
+```
+
+Once you've done that, you'll need to select a destination and the repo will clone and you can run it locally. 
+
