@@ -7,7 +7,7 @@ Check <a href="https://github.com/OWelton-Rosie/JS-lib/blob/main/LICENSE">`LICEN
 ## Implementing the JS
 You are welcome to use any JS in this repo, subject to the terms of <a href="https://github.com/OWelton-Rosie/JS-lib/blob/main/LICENSE">`LICENSE.md`</a>. Note that all the scripts must be linked in the relevant `HTML` files. If you have any questions, <a href="https://owelton-rosie.pages.dev/">contact me</a>. 
 
-### Quickstart implementation guide
+## Quickstart implementation guide
 - First, navigate to the JavaScript file you wish to use and copy or download the code
 - Secondly, add the file to your workspace
   * Any file named `sw.js` is a service worker file and must be placed in your workspace's <a href="https://www.lifewire.com/what-is-a-root-folder-or-root-directory-2625989">`root`</a> directory
