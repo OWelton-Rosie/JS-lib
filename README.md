@@ -21,6 +21,23 @@ If you're placing the scripts in a separate directory, the `HTML` structure woul
 <script src="./scripts/script.js"></script>
 ```
 
+If you're using a service worker (to cache a page so it can load offline), you'll need to have this code in your `HTML` file:
+
+```
+<script>
+         // Registering the Service Worker
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/sw.js').then((registration) => {
+                    console.log('Service Worker registered with scope:', registration.scope);
+                }).catch((error) => {
+                    console.log('Service Worker registration failed:', error);
+                });
+            });
+        }
+</script>
+```
+
 ## Running this repo locally
 You can run this repo locally by copying the following command and pasting it into your terminal:
 
