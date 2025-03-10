@@ -55,5 +55,5 @@ https://github.com/OWelton-Rosie/js-lib
 Once you've done that, you'll need to select a destination, and the repo will clone, and you can run it locally. 
 
 ## Feedback/contact
-Thanks for using this! If you encounter problems, want to give me feedback or would like assistance, please <a href="owelton-rosie.pages.dev">contact me</a>.
+Thanks for using JS-lib! If you encounter problems, want to give me feedback or would like assistance, please <a href="owelton-rosie.pages.dev">contact me</a>.
 
